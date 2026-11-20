@@ -37,6 +37,7 @@ Step 4 : Test for the XOR patterns.
 
 # Program:
 ```python
+import numpy as np
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
@@ -106,8 +107,8 @@ predict(w1,w2,test)
 ```
 
 <H3>Output:</H3>
-<img width="1137" height="620" alt="image" src="https://github.com/user-attachments/assets/6ac5e83d-f2ed-4fb2-8113-ddacba4ed7d3" />
-<img width="1316" height="247" alt="image" src="https://github.com/user-attachments/assets/60f9f56d-6bad-48de-b348-0d66b20cd5dc" />
+<img width="884" height="673" alt="image" src="https://github.com/user-attachments/assets/a8646a78-7075-462d-a33d-ff54d5d27ca2" />
+
 
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
